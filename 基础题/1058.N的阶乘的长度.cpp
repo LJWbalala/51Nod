@@ -9,6 +9,12 @@ Input示例
 6
 Output示例
 3
+思路：
+位数公式x=[lg(n)]+1
+则有:	x=[lg(N!)]+1
+		x=[lg(N*(N-1)*(N-2)*...*2*1)]+1
+		x=[lg(N)]+[lg(N-1)]+[lg(N-2)]+...+[lg(2)]+[lg(1)]+1
+循环遍历即可
  */
 #include <bits/stdc++.h>
 using namespace std;
