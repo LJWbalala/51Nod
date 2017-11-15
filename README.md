@@ -16,7 +16,7 @@
 * <font size=4>[九级算法题](#9)</font>
 * <font size=4>[难题](#10)</font>
 
-## **<h1 id="0"><font face="微软雅黑" size=5>基础题</font></h1>** ##
+## **<h1 id="0"><font face="微软雅黑" size=4>基础题</font></h1>** ##
 ---
 |  ID  |     Title     | Blog |    Category    |
 |:----:|:-------------:|:----:|:--------------:|
