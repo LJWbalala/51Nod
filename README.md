@@ -1,8 +1,5 @@
 # <font face="微软雅黑" size=6>51Nod 刷题记录</font>
 ---
-> 这件事情一直想做，贵在坚持，希望自己能够坚持下去
-> 请大家多多指教
----
 # <font face="微软雅黑" size=5>目录</font> #
 * <font size=4>[基础题](#0)</font>
 * <font size=4>[一级算法题](#1)</font>
